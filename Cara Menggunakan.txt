@@ -1,0 +1,5 @@
+Cara Menggunakan :
+
+- Import database kasir_cafe.sql
+- Install file yang ada didalam Setup Files
+- Selesai
